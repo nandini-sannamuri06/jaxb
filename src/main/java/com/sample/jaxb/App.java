@@ -18,7 +18,7 @@ public class App
     public static void main( String[] args ) throws Exception
     {
 
-    	String path = "D:\\Practice\\jaxb\\employee.xml";
+    	String path = "\\employee.xml";
     	
     	//converting an Employee Object to XML
     	Employee employee = new Employee();
